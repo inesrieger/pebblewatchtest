@@ -1,0 +1,26 @@
+{
+    "author": "inez.rieger@hotmail.de",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test",
+    "pebble": {
+        "displayName": "test",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4cebec3b-8b41-438d-a507-23e9e3340c31",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
